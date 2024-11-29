@@ -1,0 +1,5 @@
+apply from: "https://raw.githubusercontent.com/iamkaf/modresources/refs/heads/main/gradle/${minecraft_version}/neoforge.gradle"
+
+dependencies {
+    modImplementation "com.iamkaf.amber:amber-neoforge:$rootProject.amber_version"
+}

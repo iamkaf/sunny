@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_love": {
+      "conditions": {
+        "items": [
+          {
+            "items": "sunny:love"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sunny:london_fog"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_love"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sunny:london_fog"
+    ]
+  }
+}

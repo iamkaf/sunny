@@ -1,0 +1,44 @@
+{
+  "values": {
+    "sunny:cabbage": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "sunny:cabbage_seeds": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "sunny:cucumber": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "sunny:cucumber_seeds": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "sunny:peanut": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "sunny:peanut_seeds": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "sunny:pineberry": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "sunny:pineberry_seeds": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "sunny:strawberry": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "sunny:strawberry_seeds": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    }
+  }
+}

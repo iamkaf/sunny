@@ -1,0 +1,20 @@
+{
+  "block.sunny.cabbage_crop_block": "CabbageCrop",
+  "block.sunny.cucumber_crop_block": "CucumberCrop",
+  "block.sunny.peanut_crop_block": "PeanutCrop",
+  "block.sunny.pineberry_crop_block": "PineberryCrop",
+  "block.sunny.strawberry_crop_block": "StrawberryCrop",
+  "creativetab.sunny.sunny": "Sunny",
+  "item.sunny.cabbage": "Cabbage",
+  "item.sunny.cabbage_seeds": "Cabbage Seeds",
+  "item.sunny.cucumber": "Cucumber",
+  "item.sunny.cucumber_seeds": "Cucumber Seeds",
+  "item.sunny.london_fog": "London Fog",
+  "item.sunny.love": "Love",
+  "item.sunny.peanut": "Peanut",
+  "item.sunny.peanut_seeds": "Peanut Seeds",
+  "item.sunny.pineberry": "Pineberry",
+  "item.sunny.pineberry_seeds": "Pineberry Seeds",
+  "item.sunny.strawberry": "Strawberry",
+  "item.sunny.strawberry_seeds": "Strawberry Seeds"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sunny:strawberry"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sunny:strawberry_seeds"
+  }
+}
